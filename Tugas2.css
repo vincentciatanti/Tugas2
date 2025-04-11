@@ -1,0 +1,55 @@
+ul#hobi li#baca{
+    color : blue;
+}
+
+ul#hobi li#renang{
+    color : rgb(255, 0, 225);
+}
+
+ul#hobi li#koding{
+    color : rgb(4, 255, 0);
+}
+
+ol#bestie li#ty{
+    color : pink
+}
+
+ol#bestie li#ctr{
+    color : rgb(253, 122, 144)
+}
+
+h1{
+    color :blueviolet
+}
+
+h2#hoby{
+    color:brown
+}
+
+h2#bestie{
+    color:rgb(249, 193, 109)
+}
+
+h2#kontak{
+    color:aquamarine
+}
+
+h2#bio{
+    color :rgb(183, 62, 62)
+}
+
+body p{
+    color:rgb(59, 49, 132)
+}
+
+tr:nth-child(1) th:nth-child(1) {
+    background-color: blue;
+}
+
+tr:nth-child(1) th:nth-child(2) {
+    background-color: blue;
+}
+
+tr:nth-child(1) th:nth-child(3) {
+    background-color: blue;
+}
